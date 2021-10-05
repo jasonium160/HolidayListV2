@@ -15,3 +15,9 @@ A folder called plans is attached, with a .pdf and two other python files.
 The .pdf goes over a very high-level overview of the flow of the application, as visualized in the pre-planning stages.
 The two additonal python files are what I used for reference (from my own work and stackoverflow) to build some of my functions and test smaller bits of my main code.
 They can be thought of aides to my thought-process.
+
+
+V2 update=======
+most bugs fixed - the years work properly, errors are handled a bit better and the loops don't break as easliy
+got the date from the weather api and used that to make a dictionary for the forecast, then used that to pair up with holidays for the current week to better give 
+their forecasts 
